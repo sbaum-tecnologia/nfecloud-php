@@ -15,7 +15,7 @@ Este pacote consiste em um SDK em PHP para a utilizacao do sistema NFeCloud atra
 Via Composer
 
 ```bash
-composer require sbaum-tecnologia/snfe-php
+composer require sbaum-tecnologia/nfecloud-php
 ```
 
 ## Licença
